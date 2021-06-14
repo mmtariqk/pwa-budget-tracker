@@ -36,13 +36,14 @@ ES6, JS, Node.js (Express, Mongoose, compression), MongoDB and PWAs (Web Manifes
 
 <img width="1140" alt="desktop-screen-size" src="https://user-images.githubusercontent.com/77028806/121839366-b50ecb00-cc8e-11eb-98a0-b6bcbda0fab7.png">
 
+<img width="1073" alt="Screen Shot 2021-06-13 at 9 18 27 PM" src="https://user-images.githubusercontent.com/77028806/121838655-306f7d00-cc8d-11eb-9260-0439601c0075.png">
+
 ![Screen Shot 2021-06-13 at 9 29 13 PM](https://user-images.githubusercontent.com/77028806/121839237-7e38b500-cc8e-11eb-82f8-7d97706cebd5.png)
 
 <img width="2047" alt="Service-Worker" src="https://user-images.githubusercontent.com/77028806/121838624-20f03400-cc8d-11eb-97cd-cf6ec625d032.png">
 
 <img width="2049" alt="Manifestjson" src="https://user-images.githubusercontent.com/77028806/121838644-28afd880-cc8d-11eb-8c38-5382660f6fa1.png">
 
-<img width="1073" alt="Screen Shot 2021-06-13 at 9 18 27 PM" src="https://user-images.githubusercontent.com/77028806/121838655-306f7d00-cc8d-11eb-9260-0439601c0075.png">
 
 ## User-Story
 AS AN avid traveler
