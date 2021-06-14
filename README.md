@@ -8,9 +8,9 @@ This Budget Tracker app is a progressive web application that lets users add & s
 A service worker is a background worker that acts as a programmable proxy, permitting us to control what happens on a request-by-request basis. We can use it to make (parts of, or even entire) apps work offline. A good PWA will be able to run while offline by caching core assets like HTML. CSS, JS, Logos etc. So, you're in control of how much of your user experience is available offline. 
 Here's service worker life cycle for your kind perusal, please. 
 
-Install
-Activate
-Fetch
+#### Install
+#### Activate
+#### Fetch
 
 Note: Make sure that you have "process.env.MONGODB_URI" in your mongoose.connect in the server.js file.
 
