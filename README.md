@@ -33,6 +33,9 @@ ES6, JS, Node.js (Express, Mongoose, compression), MongoDB and PWAs (Web Manifes
 
 ## Screenshots
 
+
+<img width="1140" alt="desktop-screen-size" src="https://user-images.githubusercontent.com/77028806/121839366-b50ecb00-cc8e-11eb-98a0-b6bcbda0fab7.png">
+
 ![Screen Shot 2021-06-13 at 9 29 13 PM](https://user-images.githubusercontent.com/77028806/121839237-7e38b500-cc8e-11eb-82f8-7d97706cebd5.png)
 
 <img width="2047" alt="Service-Worker" src="https://user-images.githubusercontent.com/77028806/121838624-20f03400-cc8d-11eb-97cd-cf6ec625d032.png">
